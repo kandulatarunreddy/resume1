@@ -1,0 +1,151 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+section {
+    display: block;
+}
+
+.top-container {
+    background-color: #F8F6F4;
+    position: relative;
+    padding-top: 2px;
+}
+div {
+    display: block;
+}
+.py-3 {
+    padding-top: 1rem!important;
+    padding-bottom: 1rem!important;
+}
+.justify-content-center {
+    justify-content: center!important;
+}
+.d-flex {
+    display: flex!important;
+}
+ul {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.tarun-profile-picture {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    margin: 100px 0;
+}
+img, svg {
+    vertical-align: middle;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.intro {
+    width: 50%;
+    margin: auto;
+    font-size: xx-large;
+}
+p {
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+
+.py-5 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+}
+h3 {
+    color: #116A7B;
+    font-family: "Merriweather", serif;
+    font-size: 2rem;
+    font-weight: normal;
+
+}
+
+.checkmark-skills {
+    line-height: 2.5;
+    font-size: 1.2rem;
+}
+
+h2 {
+    color: #116A7B;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+hr {
+    border: dotted #ECE5C7 16px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    color: inherit;
+    opacity: .25;
+}
+.btn {
+    background: #C2DEDC;
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #116A7B;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    margin-bottom: 100px;
+}
+.bottom-container {
+    background-color: #F8F6F4;
+    position: relative;
+    padding-top: 50px;
+}
+.nav {
+    background-color: #F8F6F4;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0px;
+}
+.pb-3 {
+    padding-bottom: 1rem!important;
+}
+.mb-3 {
+    margin-bottom: 1rem!important;
+}
+.nav-item {
+    font-family: "Merriweather", sans-serif;
+    color: #116A7B;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.mt-4 {
+    margin-top: 1.5rem!important;
+}
+.align-items-center {
+    align-items: center!important;
+}
+.justify-content-between {
+    justify-content: space-between!important;
+}
+.flex-wrap {
+    flex-wrap: wrap!important;
+}
+
+
